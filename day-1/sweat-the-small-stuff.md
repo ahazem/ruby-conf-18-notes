@@ -1,0 +1,1 @@
+Couldn't write anything down, was full-packed and didn't have a seat. My laptop died at that time as well and there was no chargers around, later I found them to be hidden somewhere between the chairs.

@@ -19,4 +19,3 @@ Airbnb and ebay updated their policies re sexual harrassment.
 Find your lever: different questions on how can you use that to pressure companies into enforcing such policies.
 
 Get rid of the interview quizzes already!
-
