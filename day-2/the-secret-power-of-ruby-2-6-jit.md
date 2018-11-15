@@ -3,20 +3,4 @@ Takashi Kokubun
 
 ### Intro
 
-### Notes
-
-
-
-### Q&A:
-
-1. **Q**:
-
-   **A**:
-
-2. **Q**:
-
-   **A**:
-
-3. **Q**:
-
-   **A**:
+Decided to skip this in favor of "The Case of Missing Method: A Ruby Mystry Story".
