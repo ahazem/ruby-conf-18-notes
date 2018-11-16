@@ -5,7 +5,7 @@
 | Biltmore Bowl                                                | Emerald Room<br />*[Eithcal Decisions](https://rubyconf.org/program#track-ethical-decisions)* / *[General](https://rubyconf.org/program#track-general)* | Gold Room<br />*[Scaling Teams](https://rubyconf.org/program#track-scaling-teams)* | Crystal Ballroom<br />*[General](https://rubyconf.org/program#track-general)* / [Taming Services](https://rubyconf.org/program#track-taming-services) | Tiffany Room<br />*[General](https://rubyconf.org/program#track-general)* |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Yukihiro "Matz" Matsumoto [@yukihiro_matz](https://twitter.com/yukihiro_matz)<br />👉 **[Keynote]()** 👈 |                                                              |                                                              |                                                              |                                                              |
-|                                                              | Caleb Thompson<br />**Responsibility, Nuremberg, and Krishna** | Aaron Harpole<br />👉 **Sweat the Small Stuff** 👈             | Andy Croll<br />**The Games Developers Play**                | Pranav Garg<br />**RubyPlot - Creating a Plotting Library for Ruby** |
+|                                                              | Caleb Thompson<br />**Responsibility, Nuremberg, and Krishna** | Aaron Harpole<br />👉 [**Sweat the Small Stuff**](day1/sweat-the-small-stuff.md) 👈             | Andy Croll<br />**The Games Developers Play**                | Pranav Garg<br />**RubyPlot - Creating a Plotting Library for Ruby** |
 |                                                              | Eric Weinstein<br />**Being Good: An Introduction to Robo- and Machine Ethics** | Jack Danger<br />👉 **Designing an engineering team: Making room for everyone** 👈 | Beth Haubert<br />**Cats, The Musical! Algorithmic Song Meow-ification** | Ryan Davis<br />**Graphics and Simulations (and Games), Oh My!** |
 | Lunch                                                        |                                                              |                                                              |                                                              |                                                              |
 | Evan Phoenix<br />👉 **RUBY FAMILY FEUD** 👈 (unfortunately, missed half of it) |                                                              |                                                              |                                                              |                                                              |
@@ -33,7 +33,7 @@
 |                                                              | Nadia Odunayo<br />👉 **The Case of the Missing Method — A Ruby Mystery Story** 👈 | Anna Gluszak<br />**Practical guide to benchmarking your optimizations** 👍👍 | Takashi Kokubun<br />**The secret power of Ruby 2.6: JIT** (wanted to attend this, changed my mind at last minute in favor of missing method talk) | Alex Stephen<br />**Make Ruby Write Your Code for You** 👍👍   |
 | Lightning Talks                                              |                                                              |                                                              |                                                              |                                                              |
 
-#### 
+####
 
 #### Day 3
 
@@ -51,4 +51,4 @@
 | Afternoon Break                                              |                                                              |                                                              |                                                              |                                                              |
 | Yukihiro Matsumoto (Matz)<br />👉 **Q&A with Matz** 👈         |                                                              |                                                              |                                                              |                                                              |
 
-####  
+####
