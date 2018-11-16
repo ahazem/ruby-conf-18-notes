@@ -1,20 +1,6 @@
 The New Design of Ruby's Documentation
 Itoyanagi Sakura
 
-### Intro
-
 ### Notes
 
-### Q&A:
-
-1. **Q**:
-
-   **A**:
-
-2. **Q**:
-
-   **A**:
-
-3. **Q**:
-
-   **A**:
+Decided not to attend this in favour of Eiffel's Tower talk.

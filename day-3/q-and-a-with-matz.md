@@ -1,20 +1,6 @@
 Q & A with Matz
 Yukihiro Matsumoto (Matz)
 
-### Intro
-
 ### Notes
 
-### Q&A:
-
-1. **Q**:
-
-   **A**:
-
-2. **Q**:
-
-   **A**:
-
-3. **Q**:
-
-   **A**:
+Decided to listen to it without writing notes, most of the questions were about type annotations and the stuff he worked on (more like contributed recently) in Ruby.
