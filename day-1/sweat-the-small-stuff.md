@@ -1,6 +1,6 @@
 ### Sweat the Small Stuff
 
-By: Aaron Harpole ([@harpaa01](https://twitter.com/harpaa01))
+Aaron Harpole ([@harpaa01](https://twitter.com/harpaa01))<br />
 Track: [Scaling Teams](https://rubyconf.org/program#track-scaling-teams)
 
 #### About the speaker (extracted from RubyConf website)

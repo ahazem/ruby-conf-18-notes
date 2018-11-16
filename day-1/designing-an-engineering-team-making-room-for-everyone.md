@@ -1,6 +1,6 @@
 ### Designing an engineering team: Making room for everyone
 
-By: Jack Danger ([@jackdanger](https://twitter.com/jackdanger))
+Jack Danger ([@jackdanger](https://twitter.com/jackdanger))<br />
 Track: [Scaling Teams](https://rubyconf.org/program#track-scaling-teams)
 
 #### About the speaker (extracted from RubyConf website)
