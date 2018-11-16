@@ -44,6 +44,8 @@ At this point, I decided to focus more on listening to the talk.
 
 Great talk, very informative, detailed, yet concise.
 
+Slides can be found [here](https://speakerdeck.com/tenderlove/reducing-memory-usage-in-ruby).
+
 ### Q&A:
 
 [no questions time]
