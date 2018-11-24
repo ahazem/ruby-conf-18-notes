@@ -15,8 +15,12 @@ Also, my laptop died at that time as well and there was no chargers around, late
 
 In general, I remember having a somewhat bad impression about the talk (I found the drawings to be funny, though, not very helpful). I went in a few minutes late because I was talking to a guy I met earlier during the keynote.
 
-The part which I was able to focus the most was the onboarding. The notes he has on [this](https://icanthascheezburger.com/wordpress/?page_id=222) web page include lots of tips and tricks regarding this. I found we are doing many of them already but one thing I liked specifically was this:
+The part in which I was able to focus the most was about onboarding. The notes he has on [this](https://icanthascheezburger.com/wordpress/?page_id=222) web page include lots of tips and tricks regarding this. I found we are doing many of them already but one thing I liked specifically was this:
 
-"Set up 1:1s with other roles so the new hire understands how the greater team collaborates".
+> "Set up 1:1s with other roles so the new hire understands how the greater team collaborates".
 
 The slides can be found [here](https://www.dropbox.com/s/pug9r1xp00bt42o/sweat%20the%20small%20stuff.pdf).
+
+#### Q&A
+
+I wasn't paying attention to questions and answers on the first day.
