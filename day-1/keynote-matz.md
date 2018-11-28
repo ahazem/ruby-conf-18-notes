@@ -79,7 +79,7 @@ He talks about new features in upcoming Ruby releases.
 2.6 is coming this Christmas.<br />
 3.0 is next year.
 
-Slides or video for the keynote is not uploaded anywhere.
+Slides or video for the keynote is not available (will be updated as soon as it is uploaded to ConFreaks).
 
 #### Q&A
 
