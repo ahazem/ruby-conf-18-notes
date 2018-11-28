@@ -79,6 +79,10 @@ He talks about new features in upcoming Ruby releases.
 2.6 is coming this Christmas.<br />
 3.0 is next year.
 
+Teases about a project after releasing Ruby 3.0 that might be the future of Ruby. Nothing concerete to share yet.
+
+Talk ends.
+
 Slides or video for the keynote is not available (will be updated as soon as it is uploaded to ConFreaks).
 
 #### Q&A
