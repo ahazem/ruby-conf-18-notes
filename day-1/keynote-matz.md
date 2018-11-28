@@ -12,6 +12,8 @@ This feels a little bit silly to actually do, but here you go:
 
 The talk is about the power of the community. Matz gets on stage.
 
+![Matz on stage](https://pbs.twimg.com/media/Dr5o5HIUwAA6Ish.jpg)
+
 Jokes about feeling 30% less intelligent speaking in English. Laughter.
 
 #### Notes
@@ -69,7 +71,7 @@ Laughter.
 He proceeds to talk about how he is sick of claims like Ruby is dead, and how languages or technologies get past the hype peak:
 
 ![Trough of disillusionment](https://pbs.twimg.com/media/Dr5vUSfU0AERnfw.jpg)
-Image courtesy of [@gschork](https://twitter.com/gschork).
+_Image courtesy of [@gschork](https://twitter.com/gschork/status/1062408958592278528)._
 
 > "If Ruby is in a trough now, it's the best time to invest!"
 
