@@ -72,7 +72,7 @@ He proceeds to talk about how he is sick of claims like Ruby is dead, and how la
 
 Continues talking about the community. Proposes everyone in the hall shake hands. Everyone does.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Ruby heavily relies on the community, without the community Ruby wouldn&#39;t be Ruby.&quot; – <a href="https://twitter.com/yukihiro_matz?ref_src=twsrc%5Etfw">@yukihiro_matz</a> <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; Ahmed (@ahazem) <a href="https://twitter.com/ahazem/status/1062406576047239168?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Matz just made everyone look at the people sitting next to them and shake hands! <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; Ahmed (@ahazem) <a href="https://twitter.com/ahazem/status/1062410777712222208?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 He talks about new features in upcoming Ruby releases.
