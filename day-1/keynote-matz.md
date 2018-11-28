@@ -68,6 +68,9 @@ Laughter.
 
 He proceeds to talk about how he is sick of claims like Ruby is dead, and how languages or technologies get past the hype peak:
 
+![Trough of disillusionment](https://pbs.twimg.com/media/Dr5vUSfU0AERnfw.jpg)
+Image courtesy of [@gschork](https://twitter.com/gschork).
+
 > "If Ruby is in a trough now, it's the best time to invest!"
 
 Continues talking about the community. Proposes everyone in the hall shake hands. Everyone does.
