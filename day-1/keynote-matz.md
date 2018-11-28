@@ -76,7 +76,7 @@ Continues talking about the community. Proposes everyone in the hall shake hands
 
 He talks about new features in upcoming Ruby releases.
 
-2.6 is coming this Christmas.
+2.6 is coming this Christmas.<br />
 3.0 is next year.
 
 Slides or video for the keynote is not uploaded anywhere.
