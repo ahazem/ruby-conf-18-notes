@@ -19,6 +19,8 @@ The part in which I was able to focus the most was about onboarding. Going throu
 
 > "Set up 1:1s with other roles so the new hire understands how the greater team collaborates".
 
+#### Slides & Video
+
 The slides can be found [here](https://www.dropbox.com/s/pug9r1xp00bt42o/sweat%20the%20small%20stuff.pdf). Video can be found [here](https://confreaks.tv/videos/rubyconf2018-sweat-the-small-stuff).
 
 #### Q&A

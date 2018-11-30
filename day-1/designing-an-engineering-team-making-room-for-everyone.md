@@ -41,9 +41,11 @@ Talks about how engineering teams lose on a lot of talent by saying things like:
 
 There are two lies when it comes to that idea:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lies we tell ourselves when interviewing, via <a href="https://twitter.com/jackdanger?ref_src=twsrc%5Etfw">@jackdanger</a>. Makes you wonder if people are measurable at all! <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><br /><img src="https://pbs.twimg.com/media/Dr6EE6xUwAALR4M.jpg:large" /></p>&mdash; Michael Herold (@mherold) <a href="https://twitter.com/mherold/status/1062431827158134784?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lies we tell ourselves when interviewing, via <a href="https://twitter.com/jackdanger?ref_src=twsrc%5Etfw">@jackdanger</a>. Makes you wonder if people are measurable at all! <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><br /><img src="https://pbs.twimg.com/media/Dr6EE6xUwAALR4M.jpg:large" alt="Lies we tell ourselves when interviewing" /></p>&mdash; Michael Herold (@mherold) <a href="https://twitter.com/mherold/status/1062431827158134784?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
 
-> “It doesn’t matter where a candidate is, what matters is where they can get to”.
+Talks how he would prefer a candidate with a proven growth trajectory:
+
+> “If a candiate can solve a complex problem during an interivew, that shows they are able to learn and develop. I want to hire for that. It doesn’t matter where a candidate is, what matters is where they can get to”.
 
 Shows a huge graph about all the skills involved in Rails.
 
@@ -51,19 +53,27 @@ Zooms in. Gives a few examples about different topics/skills you can have or hav
 
 Obviously it is not feasible that someone would have all of them.
 
+Continues talking about how to match up the skills between a company and a candidate.
 
+Gets into a different but related topic.
 
-You have no real way to evaluate everybody.
+> "There are two industries that are well ahead of software engineering and we can learn from their mistakes."
 
-Two industries ahead of software engineering in how secure and good they’re doing there jobs:
+Aviation and Medicine.
 
-Aviation and Medicine
+Talks about fatalities in aviation, and how it dropped significantly in the last 100 years between the time commerical flights were introduced and now.
 
-What do you need to do to keep a plane up in the air?
+How so? He explains, they just need to figure out:
 
-Gets into medicine, talks about various things how things go in an operating room
+> "What are the things required to keep a plane up in the air?"
+
+Gets into medicine.
+
+talks about various things how things go in an operating room
 
 ![Let's rewrite this patient in React](https://pbs.twimg.com/media/Dr6FBRLU0AAwHEW.jpg "Funny slide!")
+
+#### Slides & Video
 
 Slides can be found [here](https://docs.google.com/presentation/d/1yBKxCdbJy5ZD565cM4f_Zt5UyD2iFMB1XUH9keRpT68/edit). Video can be found [here](https://confreaks.tv/videos/rubyconf2018-designing-an-engineering-team-making-room-for-everyone).
 

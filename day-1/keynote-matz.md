@@ -92,6 +92,8 @@ Teases about a project after releasing Ruby 3.0 that might be the future of Ruby
 
 Talk ends.
 
+#### Slides & Video
+
 Slides not available online. Video can be found [here](https://confreaks.tv/videos/rubyconf2018-opening-keynote).
 
 #### Q&A
