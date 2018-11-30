@@ -17,6 +17,8 @@ The talk is about interviewing, how there's no-one-size-fits-all when it comes t
 
 ### Notes
 
+Discusses the usual answer to how to design an engineering team: hiring great engineers!
+
 > "This idea of how you could simply hire great engineers to build/scale your team is wrong. In fact, super terrible!"
 
 > "Especially the idea there's a great or real engineer out there. This is the core problem."
@@ -63,7 +65,7 @@ Gets into medicine, talks about various things how things go in an operating roo
 
 ![Let's rewrite this patient in React](https://pbs.twimg.com/media/Dr6FBRLU0AAwHEW.jpg "Funny slide!")
 
-Slides can be found [here](https://docs.google.com/presentation/d/1yBKxCdbJy5ZD565cM4f_Zt5UyD2iFMB1XUH9keRpT68/edit).
+Slides can be found [here](https://docs.google.com/presentation/d/1yBKxCdbJy5ZD565cM4f_Zt5UyD2iFMB1XUH9keRpT68/edit). Video can be found [here](https://confreaks.tv/videos/rubyconf2018-designing-an-engineering-team-making-room-for-everyone).
 
 ### Q&A:
 
