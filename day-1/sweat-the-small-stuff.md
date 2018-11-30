@@ -13,9 +13,9 @@ Could not write anything down. I felt the room was full-packed and could not fin
 
 Also, my laptop died at that time as well and there was no chargers around, later I found them to be hidden somewhere between the chairs.
 
-In general, I remember having a somewhat bad impression about the talk (I found the drawings to be funny, though, not very helpful). I went in about 10 minutes late because I was talking to a guy I met earlier during the keynote.
+In general, I remember having a somewhat bad impression about the talk (I found the drawings to be funny, though, ). I went in about 10 minutes late because I was talking to a guy I met earlier during the keynote.
 
-The part in which I was able to focus the most was about onboarding. The notes he has on [this](https://icanthascheezburger.com/wordpress/?page_id=222) web page include lots of tips and tricks regarding this. I found we are doing many of them already but one thing I liked specifically was this:
+The part in which I was able to focus the most was about onboarding. Going through his notes [here](https://icanthascheezburger.com/wordpress/?page_id=222), the talk feels much more interesting. I find the tips and tricks included to be really important. I think we are doing most of them already. One thing in particular I found interesting was this:
 
 > "Set up 1:1s with other roles so the new hire understands how the greater team collaborates".
 
