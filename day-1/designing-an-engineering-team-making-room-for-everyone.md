@@ -1,9 +1,9 @@
-### Designing an engineering team: Making room for everyone
+## Designing an engineering team: Making room for everyone
 
 Jack Danger ([@jackdanger](https://twitter.com/jackdanger))<br />
 Track: [Scaling Teams](https://rubyconf.org/program#track-scaling-teams)
 
-#### About the speaker (extracted from RubyConf website)
+### About the speaker (extracted from RubyConf website)
 
 Jack Danger is a linguist, an engineering leader, and a prolific open source contributor. He has commits in Ruby core, in Rails core, and he's managed multiple teams that own and operate massive Rails applications. Gusto is his 7th startup.
 
@@ -73,7 +73,7 @@ talks about various things how things go in an operating room
 
 ![Let's rewrite this patient in React](https://pbs.twimg.com/media/Dr6FBRLU0AAwHEW.jpg "Funny slide!")
 
-#### Slides & Video
+### Slides & Video
 
 Slides can be found [here](https://docs.google.com/presentation/d/1yBKxCdbJy5ZD565cM4f_Zt5UyD2iFMB1XUH9keRpT68/edit). Video can be found [here](https://confreaks.tv/videos/rubyconf2018-designing-an-engineering-team-making-room-for-everyone).
 

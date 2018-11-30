@@ -1,14 +1,14 @@
-### Opening Keynote
+## Opening Keynote
 
 Yukihiro Matsumoto (Matz) ([@yukihiro_matz](https://twitter.com/yukihiro_matz))<br />
 
-#### About the speaker (extracted from RubyConf website)
+### About the speaker (extracted from RubyConf website)
 
 This feels a little bit silly to actually do, but here you go:
 
 > "The creator of Ruby, Matz works for Heroku and the Ruby Assocation to improve everything Ruby."
 
-#### Intro
+### Intro
 
 The talk is about the power of the community. Matz gets on stage.
 
@@ -16,7 +16,7 @@ The talk is about the power of the community. Matz gets on stage.
 
 Jokes about feeling 30% less intelligent speaking in English. Laughter.
 
-#### Notes
+### Notes
 
 Matz talks about reading about Pascal in a book, and how he got interested in programming languages. How human mind can be expressed:
 
@@ -92,10 +92,10 @@ Teases about a project after releasing Ruby 3.0 that might be the future of Ruby
 
 Talk ends.
 
-#### Slides & Video
+### Slides & Video
 
 Slides not available online. Video can be found [here](https://confreaks.tv/videos/rubyconf2018-opening-keynote).
 
-#### Q&A
+### Q&A
 
 I wasn't paying attention to questions and answers on the first day.
