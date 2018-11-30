@@ -68,9 +68,13 @@ Laughter.
 
 > "Then I fixed it, and continued like that: report, fix it. That is the key. Okay, we got tons of bug reports in the history of Ruby. Actually, I don't consider myself a genius programmer, but you know, I think I am very good at designing a language. I don't consider myself as a great programmer, I created many bugs. And in the past we got so many requests and proposals from the community. Discussions about the type system and the compiler and all the support. These are from the community, it is not from me. So I get proposals. I consider it a lot, and I make a final decision. But still, I was not the one who invented or who came up with those ideas. And I am not really good as a documentation writer. Many people contribute by making Ruby documentation better, and they form the meet-ups, they write the books, they organize the conferences, so we owe much to the community."
 
-He proceeds to talk about how he is sick of claims like Ruby is dead, and how languages or technologies get past the hype peak:
+He proceeds to talk about how he is sick of claims like Ruby is dead.
 
-![Trough of disillusionment](https://pbs.twimg.com/media/Dr5vUSfU0AERnfw.jpg)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friendly reminder for those at <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <a href="https://t.co/8wo4cL8qE0">https://t.co/8wo4cL8qE0</a></p>&mdash; Jason Charnes (@jmcharnes) <a href="https://twitter.com/jmcharnes/status/1062408582652682242?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+
+And about how languages or technologies get past the hype peak (showing the following graph to describe his thoughts about this):
+
+![Ruby at the trough of disillusionment](https://pbs.twimg.com/media/Dr5vUSfU0AERnfw.jpg)
 _Image courtesy of [@gschork](https://twitter.com/gschork/status/1062408958592278528)._
 
 > "If Ruby is in a trough now, it's the best time to invest!"
@@ -88,7 +92,7 @@ Teases about a project after releasing Ruby 3.0 that might be the future of Ruby
 
 Talk ends.
 
-Slides or video for the keynote is not available (will be updated as soon as it is uploaded to ConFreaks).
+Slides not available online. Video can be found [here](https://confreaks.tv/videos/rubyconf2018-opening-keynote).
 
 #### Q&A
 
