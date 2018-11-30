@@ -63,15 +63,39 @@ Aviation and Medicine.
 
 Talks about fatalities in aviation, and how it dropped significantly in the last 100 years between the time commerical flights were introduced and now.
 
-How so? He explains, they just need to figure out:
+How so? He explains, they just had to figure out:
 
 > "What are the things required to keep a plane up in the air?"
 
 Gets into medicine.
 
-talks about various things how things go in an operating room
+Talks about things we can copy from them:
 
-![Let's rewrite this patient in React](https://pbs.twimg.com/media/Dr6FBRLU0AAwHEW.jpg "Funny slide!")
+> "The ability to play different roles, and teaching hospitals."
+
+Explains what roles docters/nurses play in an operation room.
+
+Jokes about how a team of developers would be like in an operating room. Laughter.
+
+![Let's rewrite this patient in React](https://pbs.twimg.com/media/Dr6FBRLU0AAwHEW.jpg)
+
+Talks about his thoughts on technical leadership, and traits of successful engineering teams.
+
+> "All these teams had students, people in learning positions."
+
+As an example, talks about teaching hospitals and how they out-perform non-teaching hospitals.
+
+Tells a story from his time at Square about skills he had in 2011 that are no longer relevant today.
+
+Reviews the points he talked about.
+
+![Let's review](https://pbs.twimg.com/media/Dr6IwPZVYAAVT-8.jpg)
+
+Puts in some final thoughts.
+
+> "Let's hire people and devleop them, based on the actual skills that our companies need."
+
+Talk ends.
 
 ### Slides & Video
 
