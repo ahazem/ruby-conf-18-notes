@@ -21,7 +21,7 @@ The talk is about interviewing, how there's no-one-size-fits-all when it comes t
 
 > "Especially the idea there's a great or real engineer out there. This is the core problem."
 
-![There's no such thing as a real engineer]https://pbs.twimg.com/media/Dr6Hf4tVAAEeUxx.jpg
+![There's no such thing as a real engineer](https://pbs.twimg.com/media/Dr6Hf4tVAAEeUxx.jpg)
 _Image courtesy of [@elg0nz](https://twitter.com/elg0nz/status/1062435568808681472)._
 
 > "The phrase great engineer itself is so coarse: it obfuscates all the skills an engineer can have!"
@@ -39,7 +39,7 @@ Talks about how engineering teams lose on a lot of talent by saying things like:
 
 There are two lies when it comes to that idea:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lies we tell ourselves when interviewing, via <a href="https://twitter.com/jackdanger?ref_src=twsrc%5Etfw">@jackdanger</a>. Makes you wonder if people are measurable at all! <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <a href="https://t.co/caqjjuiFV4">pic.twitter.com/caqjjuiFV4</a></p>&mdash; Michael Herold (@mherold) <a href="https://twitter.com/mherold/status/1062431827158134784?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lies we tell ourselves when interviewing, via <a href="https://twitter.com/jackdanger?ref_src=twsrc%5Etfw">@jackdanger</a>. Makes you wonder if people are measurable at all! <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><br /><img src="https://pbs.twimg.com/media/Dr6EE6xUwAALR4M.jpg:large" /></p>&mdash; Michael Herold (@mherold) <a href="https://twitter.com/mherold/status/1062431827158134784?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
 
 > “It doesn’t matter where a candidate is, what matters is where they can get to”.
 
