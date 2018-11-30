@@ -1,5 +1,11 @@
 # RubyConf '18 - Notes
 
+👉 👈 = Attended
+
+👍 = Interesting (but did not attend)
+
+👍👍 = Very Intersting (but did not attend either)
+
 #### Day 1
 
 | Biltmore Bowl / Regency Room / Sponsor Galleria              | Emerald Room<br />*[Eithcal Decisions](https://rubyconf.org/program#track-ethical-decisions)* / *[General](https://rubyconf.org/program#track-general)* | Gold Room<br />*[Scaling Teams](https://rubyconf.org/program#track-scaling-teams)* | Crystal Ballroom<br />*[General](https://rubyconf.org/program#track-general)* / [Taming Services](https://rubyconf.org/program#track-taming-services) | Tiffany Room<br />*[General](https://rubyconf.org/program#track-general)* |
