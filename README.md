@@ -4,7 +4,7 @@
 
 👍 = Interesting (but did not attend)
 
-👍👍 = Very Intersting (but did not attend either)
+:100: = Really wish I had attended (but did not attend either)
 
 #### Day 1
 
@@ -16,9 +16,9 @@
 | Lunch                                                        |                                                              |                                                              |                                                              |                                                              |
 | Evan Phoenix<br />👉 **RUBY FAMILY FEUD** 👈 (unfortunately, missed half of it) |                                                              |                                                              |                                                              |                                                              |
 |                                                              | Audrey Eschright<br />👉 **Unraveling the Masculinization of Technology** 👈 (finished early, went to another one) | Annie Sexton<br />**The Dangers of Tribal Knowledge** 👍      | Daniel Azuma<br />👉 **Yes, You Should Provide a Client Library For Your API** 👈 (joined later after finishing first talk) | Andy Glass<br />**Ruby for Makers: Designing Physical Products With Ruby ** |
-|                                                              | Cecy Correa<br />**The Psychology of Fake News (And What Tech Can Do About It)** 👍 (read so many good things about it on twitter) | Mercedes Bernard<br />**Empowering Early-Career Developers** 👍 | Jeremy Hanna<br />👉 **Uncoupling Systems** 👈 (didn't like it at all, he wasn't prepared) | Jonan Scheffler<br />**Wafflebot: Cloud Connected Artificially Intelligent Waffles** 👍 (heard it was very interesting as well) |
+|                                                              | Cecy Correa<br />**The Psychology of Fake News (And What Tech Can Do About It)** :100: (read so many good things about it on twitter) | Mercedes Bernard<br />**Empowering Early-Career Developers** 👍 | Jeremy Hanna<br />👉 **Uncoupling Systems** 👈 (didn't like it at all, he wasn't prepared) | Jonan Scheffler<br />**Wafflebot: Cloud Connected Artificially Intelligent Waffles** :100: (heard it was very interesting as well) |
 | Afternoon Break                                              |                                                              |                                                              |                                                              |                                                              |
-|                                                              | Colin Fleming<br />**Ethical Data Collection for Regular Developers** 👍 | Katherine Wu<br />**Secrets of a Stealth Mentee**            | James Thompson<br />👉 **Building for Gracious Failure** 👈 (went in a little late, liked the talk) | <br />**Ruby-us Hagrid: Writing Harry Potter with Ruby** 👍   |
+|                                                              | Colin Fleming<br />**Ethical Data Collection for Regular Developers** 👍 | Katherine Wu<br />**Secrets of a Stealth Mentee**            | James Thompson<br />👉 **Building for Gracious Failure** 👈 (went in a little late, liked the talk) | <br />**Ruby-us Hagrid: Writing Harry Potter with Ruby** :100: |
 | Bianca Escalante<br />👉 **[Keynote]()** 👈                    |                                                              |                                                              |                                                              |                                                              |
 
 

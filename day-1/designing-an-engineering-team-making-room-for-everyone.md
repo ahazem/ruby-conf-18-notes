@@ -11,19 +11,45 @@ Jack Danger is a linguist, an engineering leader, and a prolific open source con
 
 He briefly introduces himself.
 
+Jokes about having a lingusitcs degree (and being terrible at career planning). Laughter.
+
 The talk is about interviewing, how there's no-one-size-fits-all when it comes to hiring, and scaling teams.
 
 ### Notes
 
-TODO: [revise notes]
+> "This idea of how you could simply hire great engineers to build/scale your team is wrong. In fact, super terrible!"
 
-This idea of how you could simple hire great engineers to build your team is wrong.
+> "Especially the idea there's a great or real engineer out there. This is the core problem."
 
-Especially the word great engineer.
+![There's no such thing as a real engineer]https://pbs.twimg.com/media/Dr6Hf4tVAAEeUxx.jpg
+_Image courtesy of [@elg0nz](https://twitter.com/elg0nz/status/1062435568808681472)._
 
-It obscures all skills an engineer can have.
+> "The phrase great engineer itself is so coarse: it obfuscates all the skills an engineer can have!"
 
-“It doesn’t matter where a candidate is, what matters is where they can get to”.
+Talks about how big is software engineering as a field, and how most engineers are only comptent in a few of them.
+
+Gives an example about two candidates with different backgrounds and skill sets.
+
+Asks: which one would be more senior? Which one would pass the other interview's bar?
+
+Talks about how engineering teams lose on a lot of talent by saying things like:
+
+- "At this company, we have a high bar"
+- "We cannot lower our hiring bar for some candidates"
+
+There are two lies when it comes to that idea:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lies we tell ourselves when interviewing, via <a href="https://twitter.com/jackdanger?ref_src=twsrc%5Etfw">@jackdanger</a>. Makes you wonder if people are measurable at all! <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <a href="https://t.co/caqjjuiFV4">pic.twitter.com/caqjjuiFV4</a></p>&mdash; Michael Herold (@mherold) <a href="https://twitter.com/mherold/status/1062431827158134784?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+
+> “It doesn’t matter where a candidate is, what matters is where they can get to”.
+
+Shows a huge graph about all the skills involved in Rails.
+
+Zooms in. Gives a few examples about different topics/skills you can have or haven't.
+
+Obviously it is not feasible that someone would have all of them.
+
+
 
 You have no real way to evaluate everybody.
 
