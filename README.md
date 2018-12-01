@@ -6,7 +6,7 @@
 
 :100: = Really wish I had attended (but did not attend either)
 
-#### Day 1
+### Day 1
 
 | Biltmore Bowl / Regency Room / Sponsor Galleria              | Emerald Room<br />*[Eithcal Decisions](https://rubyconf.org/program#track-ethical-decisions)* / *[General](https://rubyconf.org/program#track-general)* | Gold Room<br />*[Scaling Teams](https://rubyconf.org/program#track-scaling-teams)* | Crystal Ballroom<br />*[General](https://rubyconf.org/program#track-general)* / [Taming Services](https://rubyconf.org/program#track-taming-services) | Tiffany Room<br />*[General](https://rubyconf.org/program#track-general)* |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -23,7 +23,7 @@
 
 
 
-#### Day 2
+### Day 2
 
 | Biltmore Bowl / Regency Room / Sponsor Galleria              | Emerald Room<br />*[General](https://rubyconf.org/program#track-general)* | Gold Room<br />*[Incident Response](https://rubyconf.org/program#track-incident-response)* / *[Make It Faster](https://rubyconf.org/program#track-make-it-faster)* | Crystal Ballroom<br />*[Inside Ruby](https://rubyconf.org/program#track-inside-ruby)* / *[General](https://rubyconf.org/program#track-general)* | Tiffany Room<br />*[General](https://rubyconf.org/program#track-general)* |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -39,9 +39,7 @@
 |                                                              | Nadia Odunayo<br />👉 **The Case of the Missing Method — A Ruby Mystery Story** 👈 | Anna Gluszak<br />**Practical guide to benchmarking your optimizations** 👍👍 | Takashi Kokubun<br />**The secret power of Ruby 2.6: JIT** (wanted to attend this, changed my mind at last minute in favor of missing method talk) | Alex Stephen<br />**Make Ruby Write Your Code for You** 👍👍   |
 | Lightning Talks                                              |                                                              |                                                              |                                                              |                                                              |
 
-####
-
-#### Day 3
+### Day 3
 
 
 
@@ -57,4 +55,3 @@
 | Afternoon Break                                              |                                                              |                                                              |                                                              |                                                              |
 | Yukihiro Matsumoto (Matz)<br />👉 **Q&A with Matz** 👈         |                                                              |                                                              |                                                              |                                                              |
 
-####
