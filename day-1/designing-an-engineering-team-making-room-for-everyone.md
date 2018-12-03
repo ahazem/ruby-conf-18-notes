@@ -28,7 +28,7 @@ _Image courtesy of [@elg0nz](https://twitter.com/elg0nz/status/10624355688086814
 
 > "The phrase great engineer itself is so coarse: it obfuscates all the skills an engineer can have!"
 
-Talks about how big is software engineering as a field, and how most engineers are only comptent in a few of them.
+Talks about how big software engineering is as a field, and how most engineers are only comptent in a handful of skills.
 
 Gives an example about two candidates with different backgrounds and skill sets.
 
