@@ -11,7 +11,7 @@ Audrey Eschright is a writer, community organizer, and software developer based 
 
 Introduced herself.
 
-Talked about publishing a female hacker journal: [the recompiler](https://recompilermag.com).
+Talked about publishing a female hacker journal: [the recompiler](https://recompilermag.com), and her other related projects.
 
 ### Notes
 
@@ -21,15 +21,15 @@ Then some statsitics about diversity in companies like Facebook, and Google.
 
 She is not very impressed about the percentages though.
 
-She says it's not terrible, but trash is still there, quoting Google's handling of Andy's Rubin sexual misconduct.
+She says it's not terrible, but trash is still there, quoting Google's handling of Andy Rubin sexual misconduct.
 
 Talking further about statstics for gender gaps / diversity in more companies.
 
-Discusses intersectionality and gender issues, and marginalization.
+Discusses intersectionality, gender issues, and marginalization.
 
 > "Gender is not always safe to talk about!"
 
-Praising Google's walkout (#googlewalkout). Talks about the demands, and discusses Google's response.
+Praising Google's walkout ([#googlewalkout](https://twitter.com/hashtag/googlewalkout)). Talks about the demands, and discusses Google's response.
 
 Other companies are listening too. Airbnb and Ebay updated their policies regarding sexual harrassment.
 
@@ -39,7 +39,7 @@ She gives some tips on how to fight back!
 
 Lists some ideas on how can you use that to pressure companies into enforcing such policies.
 
-Discusses how you don't need to do this all on your own, and talks about groups labor organization in tech.
+Discusses how you don't need to do this all on your own, and talks about groups labor organization in tech, and how they can help.
 
 One final thought:
 
