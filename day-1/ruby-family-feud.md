@@ -1,6 +1,24 @@
 ## Ruby Family Feud
 
-MC: Evan Phoenix ([@evanphx](https://twitter.com/evanphx))
+**MC:**
+
+Evan Phoenix ([@evanphx](https://twitter.com/evanphx))
+
+**Participants:**
+
+_Team 1:_
+
+Eileen M. Uchitelle ([@eileencodes](https://twitter.com/eileencodes)
+Aaron Patterson ([@tenderlove](https://twitter.com/tenderlove)
+Justin Searls ([@searls](https://twitter.com/searls)
+Nadia Odunayo ([@nodunayo](https://twitter.com/nodunayo)
+
+_Team 2:_
+
+Sam Phippen ([@samphippen](https://twitter.com/samphippen)
+Kinsey Ann Durham ([@KinseyAnnDurham](https://twitter.com/KinseyAnnDurham)
+Valerie Woolard Srinivasan ([@valeriecodes](https://twitter.com/valeriecodes)
+Ernie Miller ([@erniemiller](https://twitter.com/erniemiller)
 
 ### Intro
 
