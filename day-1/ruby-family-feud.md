@@ -8,17 +8,17 @@ Evan Phoenix ([@evanphx](https://twitter.com/evanphx))
 
 _Team 1:_
 
-Eileen M. Uchitelle ([@eileencodes](https://twitter.com/eileencodes)
-Aaron Patterson ([@tenderlove](https://twitter.com/tenderlove)
-Justin Searls ([@searls](https://twitter.com/searls)
-Nadia Odunayo ([@nodunayo](https://twitter.com/nodunayo)
+Eileen M. Uchitelle ([@eileencodes](https://twitter.com/eileencodes))<br />
+Aaron Patterson ([@tenderlove](https://twitter.com/tenderlove))<br />
+Justin Searls ([@searls](https://twitter.com/searls))<br />
+Nadia Odunayo ([@nodunayo](https://twitter.com/nodunayo))
 
 _Team 2:_
 
-Sam Phippen ([@samphippen](https://twitter.com/samphippen)
-Kinsey Ann Durham ([@KinseyAnnDurham](https://twitter.com/KinseyAnnDurham)
-Valerie Woolard Srinivasan ([@valeriecodes](https://twitter.com/valeriecodes)
-Ernie Miller ([@erniemiller](https://twitter.com/erniemiller)
+Sam Phippen ([@samphippen](https://twitter.com/samphippen))<br />
+Kinsey Ann Durham ([@KinseyAnnDurham](https://twitter.com/KinseyAnnDurham))<br />
+Valerie Woolard Srinivasan ([@valeriecodes](https://twitter.com/valeriecodes))<br />
+Ernie Miller ([@erniemiller](https://twitter.com/erniemiller))
 
 ### Intro
 
