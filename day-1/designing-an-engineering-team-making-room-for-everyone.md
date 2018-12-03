@@ -93,7 +93,7 @@ Reviews the points he talked about.
 
 Puts in some final thoughts.
 
-> "Let's hire people and devleop them, based on the actual skills that our companies need."
+> "Let's hire people and develop them, based on the actual skills that our companies need."
 
 Talk ends.
 
