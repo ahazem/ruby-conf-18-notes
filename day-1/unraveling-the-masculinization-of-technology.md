@@ -1,21 +1,58 @@
-Audrey
+## Unraveling the masculinization of technology
 
-The recompiler.
+Audrey Eschright ([@ameschright](https://twitter.com/ameschright))<br />
+Track: [Ethical Decisions](https://rubyconf.org/program#track-ethical-decisions)
 
-Gave some context into the gender issues, quoting Grace Hopper.
+### About the speaker (extracted from RubyConf website)
 
-Then some statsitics about diversity in companies like Facebook.
+Audrey Eschright is a writer, community organizer, and software developer based in Portland, OR. She publishes The Recompiler, a feminist hacker journal, and co-hosts the weekly Recompiler Podcast. She's best known for founding Calagator, an open source community calendaring platform; co-founding Open Source Bridge, an annual conference on FOSS contribution and maintenance; her opinions on labor and funding issues in FOSS communities; and a variety of creative projects.
 
-Said it's not terrible, but trash are still there, like Google's handling of the Android creator.
+### Intro
+
+Introduced herself.
+
+Talked about publishing a female hacker journal: [the recompiler](https://recompilermag.com).
+
+### Notes
+
+Gave some context into the gender issues, quoting `Grace Hopper`.
+
+Then some statsitics about diversity in companies like Facebook, and Google.
+
+She is not very impressed about the percentages though.
+
+She says it's not terrible, but trash is still there, quoting Google's handling of Andy's Rubin sexual misconduct.
 
 Talking further about statstics for gender gaps / diversity in more companies.
 
-Intersectionality
+Discusses intersectionality and gender issues, and marginalization.
 
-Praising Google's walkout, and describing Google's response.
+> "Gender is not always safe to talk about!"
 
-Airbnb and ebay updated their policies re sexual harrassment.
+Praising Google's walkout (#googlewalkout). Talks about the demands, and discusses Google's response.
 
-Find your lever: different questions on how can you use that to pressure companies into enforcing such policies.
+Other companies are listening too. Airbnb and Ebay updated their policies regarding sexual harrassment.
 
-Get rid of the interview quizzes already!
+She gives some tips on how to fight back!
+
+> "Find your lever!"
+
+Lists some ideas on how can you use that to pressure companies into enforcing such policies.
+
+Discusses how you don't need to do this all on your own, and talks about groups labor organization in tech.
+
+One final thought:
+
+> "Get rid of the interview quizzes already!"
+
+It is not like we're getting better programmers this way.
+
+Talk ends.
+
+### Slides & Video
+
+The slides can be found [here](https://www.slideshare.net/aeschright/unraveling-the-masculinity-of-technology-2018-edition). Video can be found [here](http://confreaks.tv/videos/rubyconf2018-unraveling-the-masculinization-of-technology).
+
+### Q&A
+
+Questions and answers not taken publicly.
