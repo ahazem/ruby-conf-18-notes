@@ -2,7 +2,7 @@ Bianca Escalante
 
 Who and what we're leaving behind.
 
-Talks about who she kept changing topics regarding the keynote.
+Talks about how she kept changing topics regarding the keynote.
 
 The hospital she was born into, in LA.
 
@@ -10,7 +10,7 @@ Talking about homelessness, and how different the paths could be with someone wh
 
 Inquity issue.
 
-Exclusing (left behind) impacts our community negatively.
+Excluding (left behind) impacts our community negatively.
 
 Why are we still okay with leaving people behind?
 

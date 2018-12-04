@@ -37,6 +37,8 @@ Recap:
 
 Slides are available [here](https://speakerdeck.com/dazuma/yes-you-should-provide-a-client-library-for-your-api). Video is [here](https://confreaks.tv/videos/rubyconf2018-yes-you-should-provide-a-client-library-for-your-api).
 
+Further resources related to the talk can be found: http://daniel-azuma.com/rubyconf2018.
+
 ### Q&A
 
-http://daniel-azuma.com/rubyconf2018
+Haven't paid attention.
