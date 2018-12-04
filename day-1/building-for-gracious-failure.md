@@ -13,7 +13,7 @@ Went in a few minutes late, missed the introduction.
 
 ### Notes
 
-The talk is divided into several points.
+The talk is divided into four points.
 
 > "1. We can't fix what we can't see."
 
@@ -35,7 +35,7 @@ Accept as much data as you can.
 
 > "4. Trust carefully."
 
-Being dependent on others can make their failure, your failure.
+Trust your third-party integrations/services carefully.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Depending on others can make their failure, your failure.&quot; – James Thompson on trusting carefully. <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; Ahmed (@ahazem) <a href="https://twitter.com/ahazem/status/1062501129324388352?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
