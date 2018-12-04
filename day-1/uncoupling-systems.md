@@ -21,7 +21,7 @@ Going through an example of code and how complicated it is.
 
 The slides (code examples and drawings) can hardly be read on the projector.
 
-Feels a little unprepared. I think he was stressed out.
+Feels a little unprepared. I think he was very stressed out.
 
 Lists three anti-patterns when designing a system (mostly around communication):
 
