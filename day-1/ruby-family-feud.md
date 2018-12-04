@@ -34,6 +34,6 @@ In general, it was funny and engaging. I liked it.
 
 The video can be found [here](https://confreaks.tv/videos/rubyconf2018-ruby-family-feud).
 
-### Q&A:
+### Q&A
 
 No questions and answers.

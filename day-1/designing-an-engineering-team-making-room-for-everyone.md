@@ -101,6 +101,6 @@ Talk ends.
 
 Slides can be found [here](https://docs.google.com/presentation/d/1yBKxCdbJy5ZD565cM4f_Zt5UyD2iFMB1XUH9keRpT68/edit). Video can be found [here](https://confreaks.tv/videos/rubyconf2018-designing-an-engineering-team-making-room-for-everyone).
 
-### Q&A:
+### Q&A
 
 Haven't paid attention to writing questions and answers until the second day.
