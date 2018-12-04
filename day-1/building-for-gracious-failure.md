@@ -37,6 +37,8 @@ Accept as much data as you can.
 
 Being dependent on others can make their failure, your failure.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Depending on others can make their failure, your failure.&quot; – James Thompson on trusting carefully. <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; Ahmed (@ahazem) <a href="https://twitter.com/ahazem/status/1062501129324388352?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+
 I generally felt this talk was very concise, and to the point. I liked it.
 
 ### Slides & Video

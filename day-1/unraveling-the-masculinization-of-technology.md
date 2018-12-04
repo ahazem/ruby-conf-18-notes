@@ -15,7 +15,10 @@ Talked about publishing a female hacker journal: [the recompiler](https://recomp
 
 ### Notes
 
-Gave some context into the gender issues, quoting `Grace Hopper`.
+Gave some context into the gender issues, quoting `Grace Hopper` from an interview with Cosmo.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Grace Hopper was quoted in Cosmo saying that writing software is like planning a dinner party and she was not wrong. <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062466639407398913?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+
 
 Then some statsitics about diversity in companies like Facebook, and Google.
 
@@ -43,7 +46,7 @@ Discusses how you don't need to do this all on your own, and talks about groups 
 
 One final thought:
 
-> "Get rid of the interview quizzes already!"
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Get rid of those interview quizzes already!” - Audrey Eschright <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; elg0nz (@elg0nz) <a href="https://twitter.com/elg0nz/status/1062470118377025537?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
 
 It is not like we're getting better programmers this way.
 
