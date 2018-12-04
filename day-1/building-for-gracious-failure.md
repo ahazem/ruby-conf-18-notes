@@ -9,33 +9,35 @@ James is committed to helping engineering teams become more deliberate in how th
 
 ### Intro
 
-Went in about 10 minutes late, missed the introduction.
+Went in a few minutes late, missed the introduction.
 
 ### Notes
 
-We can't fix what we can't see.
+The talk is divided into several points.
+
+> "1. We can't fix what we can't see."
 
 Visualize errors, not through logs. Make errors visible. First step is visibility.
 
 Instrument your code. Track how many jobs are starting, succeeding or failing.
 
-You'll be able to establish baseline to measure against, and without visibility, you cannot do that.
+You'll be able to establish a baseline to measure against, and without visibility, you cannot do that.
 
 Talks about using stuff like NewRelic/Bugsnag and the like.
 
-Return what we can.
+> "2. Return what we can."
 
 Returning some data is far better than returning no data or some errors.
 
-Accept what we can.
+> "3. Accept what we can."
 
 Accept as much data as you can.
 
-Trust carefully.
+> "4. Trust carefully."
 
-Depending on others can make their failure, your failure.
+Being dependent on others can make their failure, your failure.
 
-Talking about partial acceptance not in the sense of accepting invalid data.
+I generally felt this talk was very concise, and to the point. I liked it.
 
 ### Slides & Video
 
