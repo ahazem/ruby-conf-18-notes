@@ -44,18 +44,18 @@ Talks about lowering the entry barrier to our community and how it can benefit u
 
 Talks about cool things she learned about Ruby community:
 
-1. The Ruby community was punk rock
+- The Ruby community was punk rock:
 
 ![The Ruby community was puck rock](https://pbs.twimg.com/media/Dr7Ot0HU8AAp2KL.jpg)
 _Image courtesy of [@valeriecodes](https://twitter.com/valeriecodes/status/1062513863369752576)._
 
 Revolutionary, and Ruby being born out of frustration with status quo.
 
-2. The Ruby community valued feelings:
+- The Ruby community valued feelings:
 
 In a world of zeros and ones, it was okay (in fact encouraged) to show emotions and feelings.
 
-3. The Ruby community was friendly:
+- The Ruby community was friendly:
 
 MINASWAN = Matz is nice and so we are nice.
 
@@ -67,11 +67,11 @@ Gives a couple of examples of targeted harrasment in which open source projects 
 
 Lists a number of communities and organizations making a difference:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Organizations making a difference in the community, mentioned by <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a><a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /> <img src="https://pbs.twimg.com/media/Dr7SxAkUcAAy9s6.jpg" alt="Organizations helping the community" /> <img src="https://pbs.twimg.com/media/Dr7SxyJVAAEKXKm.jpg" alt="Organizations helping the community" /></p>&mdash; Ernesto (@etagwerker) <a href="https://twitter.com/etagwerker/status/1062518321717764097?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Organizations making a difference in the community, mentioned by <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a><a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><br/><img src="https://pbs.twimg.com/media/Dr7SxAkUcAAy9s6.jpg" alt="Organizations helping the community" /> <img src="https://pbs.twimg.com/media/Dr7SxyJVAAEKXKm.jpg" alt="Organizations helping the community" /></p>&mdash; Ernesto (@etagwerker) <a href="https://twitter.com/etagwerker/status/1062518321717764097?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 Final thoughts on how to foster an inclusive culture:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">💯🔥🙌 <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a> <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><img src="https://pbs.twimg.com/media/Dr7Sky_UcAAko_y.jpg" alt="Fostering an inclusive culture" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062518099511934976?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">💯🔥🙌 <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a> <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><br /><img src="https://pbs.twimg.com/media/Dr7Sky_UcAAko_y.jpg" alt="Fostering an inclusive culture" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062518099511934976?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 ### Video
 
