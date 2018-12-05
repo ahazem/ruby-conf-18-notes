@@ -24,8 +24,6 @@ Explains how she finally picked the topic.
 
 Exclusion (or leaving behind) impacts our community negatively.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“This environment works for me” is the career equivalent of “It works on my machine” - <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <a href="https://twitter.com/hashtag/RubyConf18?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf18</a></p>&mdash; elg0nz (@elg0nz) <a href="https://twitter.com/elg0nz/status/1062513471864983552?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
-
 > "So, who and what we're leaving behind?"
 
 Talks about her former job as a Social Impact Manager at Github. How she learned about exclusion, and its negative impacts.
@@ -37,6 +35,8 @@ Different people makes us uncomfortable.
 But sitting with discomfort and overcoming fears is how we grow!
 
 Expands on how a lot of people could still feel unsafe in our tech communities (and yes, even the Ruby community).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“This environment works for me” is the career equivalent of “It works on my machine” - <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <a href="https://twitter.com/hashtag/RubyConf18?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf18</a></p>&mdash; elg0nz (@elg0nz) <a href="https://twitter.com/elg0nz/status/1062513471864983552?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 Talks about lowering the entry barrier to our community and how it can benefit us.
 
@@ -61,19 +61,21 @@ MINASWAN = Matz is nice and so we are nice.
 
 Talks about shortcomings of the community. Discusses open source culture and raises a couple of questions on whether all open source projects is good.
 
-It is not. Gives a couple of examples of targeted harrasment in which open source projects were used.
+It is not.
 
-Lists a number of communities and organizations helping the community:
+Gives a couple of examples of targeted harrasment in which open source projects were used.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Organizations making a difference in the community, mentioned by <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a><a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <a href="https://t.co/qr5LKGmpmf">pic.twitter.com/qr5LKGmpmf</a></p>&mdash; Ernesto (@etagwerker) <a href="https://twitter.com/etagwerker/status/1062518321717764097?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+Lists a number of communities and organizations making a difference:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Organizations making a difference in the community, mentioned by <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a><a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /> <img src="https://pbs.twimg.com/media/Dr7SxAkUcAAy9s6.jpg" alt="Organizations helping the community" /> <img src="https://pbs.twimg.com/media/Dr7SxyJVAAEKXKm.jpg" alt="Organizations helping the community" /></p>&mdash; Ernesto (@etagwerker) <a href="https://twitter.com/etagwerker/status/1062518321717764097?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 Final thoughts on how to foster an inclusive culture:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">💯🔥🙌 <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a> <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <a href="https://t.co/hO3geBQiV0">pic.twitter.com/hO3geBQiV0</a></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062518099511934976?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">💯🔥🙌 <a href="https://twitter.com/BiancaCreating?ref_src=twsrc%5Etfw">@BiancaCreating</a> <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> <br /><img src="https://pbs.twimg.com/media/Dr7Sky_UcAAko_y.jpg" alt="Fostering an inclusive culture" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062518099511934976?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 ### Video
 
-Video can be found [here](https://confreaks.tv/videos/rubyconf2018-keynote-who-and-what-we-re-leaving-behind)
+Video can be found [here](https://confreaks.tv/videos/rubyconf2018-keynote-who-and-what-we-re-leaving-behind).
 
 ### Q&A
 
