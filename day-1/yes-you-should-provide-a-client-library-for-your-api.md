@@ -9,7 +9,7 @@ Daniel Azuma is a senior engineer at Google, where he leads the Ruby and Elixir 
 
 ### Intro
 
-Went in after [day-1/unraveling-the-masculinization-of-technology.md] was finished (more than 20 minutes into the talk), so missed a great part of it.
+Went in after [Unraveling the masculinization of technology](day-1/unraveling-the-masculinization-of-technology.md) talk was finished (more than 20 minutes into the talk), so missed a great part of it.
 
 ### Notes
 
@@ -23,9 +23,7 @@ Key takeaways:
 
 Use an interface description language to create a client library for APIs for several programming languages and services (like Google does, big and small companies also do that).
 
-Swagger's OpenAPI for example.
-
-Google uses protobufs.
+An example is Swagger's OpenAPI. Google uses protobufs.
 
 Recap:
 

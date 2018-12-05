@@ -11,7 +11,7 @@ Audrey Eschright is a writer, community organizer, and software developer based 
 
 Introduced herself.
 
-Talked about publishing a female hacker journal: [the recompiler](https://recompilermag.com), and her other related projects.
+Talked about publishing a female hacker journal: [the recompiler](https://recompilermag.com), and other related projects.
 
 ### Notes
 
@@ -42,7 +42,7 @@ She gives some tips on how to fight back!
 
 Lists some ideas on how can you use that to pressure companies into enforcing such policies.
 
-Discusses how you don't need to do this all on your own, and talks about groups labor organization in tech, and how they can help.
+Discusses how you don't need to do this all on your own, and talks about groups of labor organization in tech, and how they can help.
 
 One final thought:
 

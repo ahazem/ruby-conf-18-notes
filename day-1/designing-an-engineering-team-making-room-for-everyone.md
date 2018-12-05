@@ -11,7 +11,7 @@ Jack Danger is a linguist, an engineering leader, and a prolific open source con
 
 He briefly introduces himself.
 
-Jokes about having a lingusitcs degree (and being terrible at career planning). Laughter.
+Jokes about having a linguistics degree (and being terrible at career planning). Laughter.
 
 The talk is about interviewing, how there's no-one-size-fits-all when it comes to hiring, and scaling teams.
 
