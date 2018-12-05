@@ -1,6 +1,6 @@
 ## Uncoupling Systems
 
-Jeremy Hanna ([@almosyjeremy](https://twitter.com/almostjeremy))<br />
+Jeremy Hanna ([@almostjeremy](https://twitter.com/almostjeremy))<br />
 Track: [Taming Services](https://rubyconf.org/program#track-taming-services)
 
 ### About the speaker (extracted from RubyConf website)
