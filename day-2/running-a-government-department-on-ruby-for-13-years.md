@@ -83,7 +83,7 @@ Talks ends.
 
 ### Side notes
 
-I spoke to him later in the day before the closing keynote, told him I admired his work (I used to use Roda in my previous job) and he was happy about it. Also told him I felt the talk was not detailed enough, and we had a good chat about that.
+I spoke to him later in the day before the closing keynote, told him I admired his work (I used to use Sequel and Roda in my previous job) and he was happy about it. Also told him I felt the talk was not detailed enough, and we had a good chat about that.
 
 ### Video
 
