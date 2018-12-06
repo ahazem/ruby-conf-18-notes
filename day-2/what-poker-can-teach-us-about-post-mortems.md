@@ -9,7 +9,7 @@ Cory builds backend software at PagerDuty, but in his spare time he likes to pla
 
 ### Intro
 
-Asks about how many people played Poker.
+Asks about how many people attending have played Poker.
 
 Jokes about how he caused a number of post-mortems. Laughter.
 

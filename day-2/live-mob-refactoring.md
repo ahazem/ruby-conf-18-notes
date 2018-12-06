@@ -1,17 +1,15 @@
-Live Mob Refactoring
-Team Mob (Sam of RSpec)
+## Live Mob Refactoring
 
-### About (extracted from RubyConf website)
-
-
+Team Mob
+Typing Person: [Sam Phippen](https://twitter.com/samphippen) of RSpec
 
 ### Intro
 
-Screen shows a text file in Vim talking about using Poker Dice problem in interviews.
+Screen shows a text file in Vim talking about using the `Poker Dice` problem in interviews.
 
 Describes the problem as small enough to be explained simply, too big to be "completed" in any reasonable interview scenario, and contains a few interesting twists that make for interesting discussion.
 
-Talk starts.
+Session starts.
 
 Not scripted, volunteers will help doing mob refactoring live.
 
