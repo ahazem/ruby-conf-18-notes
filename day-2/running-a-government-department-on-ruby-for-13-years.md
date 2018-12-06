@@ -11,7 +11,7 @@ Jeremy Evans is the lead developer of the Sequel database library, the Roda web 
 
 Introduces himself. He's the maintainer of some famous open source projects, like Sequel, Roda, and RodAuth.
 
-![Running a government department on Ruby for over 13 years](../media/running-government-department-on-ruby-1.jpeg)
+![Running a government department on Ruby for over 13 years](../media/running-government-department-on-ruby.jpeg)
 
 The talk is about using Ruby for the last 13 years in goverment projects.
 
@@ -85,7 +85,7 @@ Talks ends.
 
 I spoke to him later in the day before the closing keynote, told him I admired his work (I used to use Sequel and Roda in my previous job) and he was happy about it. Also told him I felt the talk was not detailed enough, and we had a good chat about that.
 
-### Video
+### Slides & Video
 
 Slides is found [here](http://code.jeremyevans.net/presentations/rubyconf2018/index.html). Video is [here](http://confreaks.tv/videos/rubyconf2018-running-a-government-department-on-ruby-for-over-13-years).
 
