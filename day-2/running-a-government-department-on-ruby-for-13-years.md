@@ -75,7 +75,7 @@ Talks about their "Defense in Depth" approach:
 - Chroot priv-drop (chroot doesn't work will with autoload)
 - System call filtering
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good idea: Reduce the database user permissions to the minimum necessary to limit what an attacker can do <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><br /><img src="https://pic.twitter.com/JmaAJS2EC6" alt="Defense in depth!" /></p>&mdash; Stephanie Wilkinson (@stephanieblack) <a href="https://twitter.com/stephanieblack/status/1062782728506986501?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good idea: Reduce the database user permissions to the minimum necessary to limit what an attacker can do <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><br /><img src="https://pbs.twimg.com/media/Dr_DQMnV4AEC0cz.jpg" alt="Defense in depth!" /></p>&mdash; Stephanie Wilkinson (@stephanieblack) <a href="https://twitter.com/stephanieblack/status/1062782728506986501?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 Gave some security recommendations, felt a bit unorganized, all related to points mentioned above.
 
