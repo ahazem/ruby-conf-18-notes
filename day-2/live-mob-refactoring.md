@@ -1,7 +1,10 @@
 ## Live Mob Refactoring
 
 Team Mob
-Typing Person: [Sam Phippen](https://twitter.com/samphippen) of RSpec
+
+Moderating: not quite sure, she introduces herself at the beginning.
+Rest of participants: not sure.
+Typing person: [Sam Phippen](https://twitter.com/samphippen), one of RSpec maintainers.
 
 ### Intro
 
@@ -13,12 +16,16 @@ Session starts.
 
 Not scripted, volunteers will help doing mob refactoring live.
 
-Explains mobbing: really effective tool for getting people on the same page, not necessairly write code and finish tasks.
+Moderator explains mobbing:
 
-Different ways to do mobbing:
+> "A really effective tool for getting people on the same page, not necessairly write code and finish tasks."
 
-- Person typing doesn't contribute anything other than typing.
-- Helpful having someone not typing, not participating, sort of just coordinating.
+There are different ways to do mobbing.
+
+Moderator approach:
+
+  - The person typing doesn't contribute anything other than typing.
+  - Helpful having someone not typing, not participating, sort of just coordinating (her).
 
 Explains poker dice.
 
@@ -28,7 +35,7 @@ Running tests, a set of specs on the screen, participants are trying to see a sm
 
 Participants working on getting one of the specs to green. They define a new method.
 
-Sam jokes about him being an rspec maintainer and how it took him 5 minutes to understand what's going on.
+Sam jokes about him being an rspec maintainer and how it took him 5 minutes to understand what's going on. Laughter.
 
 They got the test working, moving on to the next spec example.
 
@@ -36,7 +43,7 @@ They create a new method, consult about the poker dice rules.
 
 Trying different pieces of code, not working yet. Sam gives a hint. Still not able to figure it out, audience offer some help, Sam gives another hint. One of the organizers gives a hint.
 
-Announcer explains that they need to think not in how humans could solve this problem, but how a machine would do so.
+Moderator explains that they need to think not in how humans could solve this problem, but how a machine would do so.
 
 They got it to work.
 
