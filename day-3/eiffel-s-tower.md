@@ -1,6 +1,6 @@
 ## Eiffel's Tower
 
-Nickolas Means ([@nmeans](https://twitter.com/hyfen))<br />Track: [Lead Rubyist](https://rubyconf.org/program#track-lead-rubyist)
+Nickolas Means ([@nmeans](https://twitter.com/nmeans))<br />Track: [Lead Rubyist](https://rubyconf.org/program#track-lead-rubyist)
 
 ### Intro
 
