@@ -1,6 +1,6 @@
 ## Building a Memex (with Ruby!)
 
-Andrew Louis (@[hyfen](https://twitter.com/hyfen))<br />Track: [General](https://rubyconf.org/program#track-general)
+Andrew Louis ([@hyfen](https://twitter.com/hyfen))<br />Track: [General](https://rubyconf.org/program#track-general)
 
 ### About (extracted from RubyConf website)
 
@@ -23,9 +23,9 @@ Quotes Vannevar:
 
 >  "We are being buried under our own product".
 
-Basically that technology allows us to create information more that we can analysis/understand.
+Basically that technology allows us to create information more than we can analysis/understand.
 
-Vannevar came up with a device called The Memex.
+Vannevar came up with a device called The Memex trying to solve this.
 
 Explains the memex.
 
@@ -33,7 +33,7 @@ The memex was never built.
 
 Talks about how he used to save every little piece of information about himself.
 
-Shows post-stamps, reports from school, among many other things.
+Shows post-stamps, reports from school, among other things.
 
 Decided to build a memex for himself.
 
@@ -98,7 +98,9 @@ More info about the project: https://hyfen.net/memex/.
 8. Didn't get the question or the answer.
 
 9. **Q**: Are you worried if this becomes open source, a company uses it to aggregate info about people?
+
    **A**: Didn't get the answer.
 
 10. **Q**: How often do you import the data?
-   **A**: Importers are running constantly!
+
+    **A**: Importers are running constantly!
