@@ -1,11 +1,16 @@
-Cache is King: Get the Most Bang for Your Buck From Ruby
-Molly Struve
+## Cache is King: Get the Most Bang for Your Buck From Ruby
+
+Molly Struve ([@molly_struve](https://twitter.com/molly_struve))<br />Track: [Make It Faster](https://rubyconf.org/program#track-make-it-faster)
 
 ### Intro
 
 Went in a few minutes late.
 
-Gives a life example of caching. Talks about her company.
+Gives a life example of caching:
+
+Asks one of the audience about his name, he replies. Now she knows his name (it is cached). Goes on with
+
+Talks about her company.
 
 ### Notes
 
