@@ -8,7 +8,7 @@ Went in a few minutes late.
 
 Gives a life example of caching:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Live analog demo of caching by <a href="https://twitter.com/molly_struve?ref_src=twsrc%5Etfw">@molly_struve</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><img src="https://pbs.twimg.com/media/DsAGSYdUUAAVi_E.jpg" alt="Live demo of caching" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062856429294342144?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Live analog demo of caching by <a href="https://twitter.com/molly_struve?ref_src=twsrc%5Etfw">@molly_struve</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><br /><img src="https://pbs.twimg.com/media/DsAGSYdUUAAVi_E.jpg" alt="Live demo of caching" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062856429294342144?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 Gets one of the audience on stage. Asks him about his name, he replies. Asks again. And again. And again.
 
@@ -20,7 +20,7 @@ The guy replies:
 
 > "I would shut down!"
 
-Ask the guy to write it down instead. Now if she wants to know his name, she no longer need to ask.
+Asks the guy to write it down instead. Now if she wants to know his name, she no longer need to ask.
 
 That's what caching is like.
 
@@ -50,16 +50,18 @@ Goes on to the last point. Bumping up the number of Resque workers from 45 to 70
 
 Explains how they fixed it.
 
+_I probably stopped talking notes at this point to focus on the talk._
+
 Recommendations:
 
 ![Recommendations](../media/cache-is-king-get-the-most-bang-for-your-buck.jpeg)
-_Sorry about the angle!_ ()
+_Sorry about the angle!_ (a better version can be seen [here](https://twitter.com/OmbuLabs/status/1062863469408477185))
 
-- Process in bulk
-- Hash cache is always going to be faster than Redis.
-- Framework cache (know your gems: octopus sharding)
-- Database Guards
-- Remove data store hits
+- Process in Bulk: if your data can be processed together, it's always going to be faster.
+- Hash Cache: is always going to be faster (than Redis, for instance).
+- Framework cache (know your gems): understand how your gems are working and configured.
+- Database Guards: prevent useless datastore hits.
+- Remove Datastore Hits: building on the previous points, sometimes you want to find ways to use Ruby to replace your datastore hits, sometimes you want to use Ruby to prevent useless datastore hits. In other times, you just need to straight up remove the datastore hits you now longer need.
 
 Talk ends.
 
@@ -68,6 +70,10 @@ Awesome talk. Told her in person how much I loved it.
 ### Slides & Video
 
 Slides is available [here](https://www.slideshare.net/MollyStruve/cache-is-king-get-the-most-bang-for-your-buck-from-ruby-122728558). Video can be found [here](http://confreaks.tv/videos/rubyconf2018-cache-is-king-get-the-most-bang-for-your-buck-from-ruby).
+
+She is also publishing this talk as a series of blog posts:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Started breaking down my <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a> speech into blog posts 😃 First up, how to prevent useless database hits using ruby! <a href="https://twitter.com/hashtag/ruby?src=hash&amp;ref_src=twsrc%5Etfw">#ruby</a> <a href="https://twitter.com/hashtag/rails?src=hash&amp;ref_src=twsrc%5Etfw">#rails</a> <a href="https://t.co/Hj6MSUZOwq">https://t.co/Hj6MSUZOwq</a></p>&mdash; Molly Struve (@molly_struve) <a href="https://twitter.com/molly_struve/status/1074672870859644929?ref_src=twsrc%5Etfw">December 17, 2018</a></blockquote>
 
 ### Q&A
 
