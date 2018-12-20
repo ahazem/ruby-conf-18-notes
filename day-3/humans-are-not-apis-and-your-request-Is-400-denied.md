@@ -1,5 +1,6 @@
-Humans Aren't APIs And Your Request Is 400 Denied
-Jennifer Tu
+## Humans Aren't APIs And Your Request Is 400 Denied
+
+Jennifer Tu ([@jtu](https://twitter.com/jtu))<br />Track: [Lead Rubyist](https://rubyconf.org/program#track-lead-rubyist)
 
 ### About (extracted from RubyConf website)
 
@@ -7,7 +8,13 @@ In her work life, Jennifer Tu writes code and listens very intently to people. S
 
 ### Intro
 
-Jumps into the talk directly. Shows an illustration showing a duck and a rabbit. Asks who see who.
+Jumps into the talk directly. Shows an illustration either showing a duck or a rabbit.
+
+Asks who see which.
+
+I see a duck.
+
+She introduces herself.
 
 ### Notes
 
