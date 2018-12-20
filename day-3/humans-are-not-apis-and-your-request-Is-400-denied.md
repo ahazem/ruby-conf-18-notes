@@ -70,9 +70,9 @@ Recaps.
 
 Talk ends. I liked the format of the talk, very informative and engaging.
 
-### Video
+### Slides & Video
 
-Video can be found [here](https://confreaks.tv/videos/rubyconf2018-humans-aren-t-apis-and-your-request-is-400-denied).
+Slides are available [here](https://www.wecohere.com/rubyconf2018.pdf). Video can be found [here](https://confreaks.tv/videos/rubyconf2018-humans-aren-t-apis-and-your-request-is-400-denied).
 
 ### Q&A
 

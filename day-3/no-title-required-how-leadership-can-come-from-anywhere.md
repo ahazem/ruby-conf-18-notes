@@ -75,6 +75,10 @@ Managers should empower us, not just delegate to us. We should hold our organiza
 
 Talks ends.
 
+### Slides & Video
+
+Slides are available [here](https://docs.google.com/presentation/d/16D8qIrvlBG99CX60u7H397RAbu_GK30XMRDH6Y2LMBc/edit#slide=id.p). Video is available [here](https://confreaks.tv/videos/rubyconf2018-no-title-required-how-leadership-can-come-from-anywhere).
+
 ### Q&A
 
 [taking questions in private]

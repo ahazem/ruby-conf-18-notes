@@ -1,6 +1,6 @@
 ## Opening Keynote
 
-Yukihiro Matsumoto (Matz) ([@yukihiro_matz](https://twitter.com/yukihiro_matz))<br />
+Yukihiro Matsumoto (Matz) ([@yukihiro_matz](https://twitter.com/yukihiro_matz))
 
 ### About the speaker (extracted from RubyConf website)
 
