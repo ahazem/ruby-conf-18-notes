@@ -1,5 +1,6 @@
-No Title Required: How Leadership Can Come From Anywhere
-Jim Liu
+## No Title Required: How Leadership Can Come From Anywhere
+
+Jim Liu ([@jimeister](https://twitter.com/jimeister))<br />Track: [Lead Rubyist](https://rubyconf.org/program#track-lead-rubyist)
 
 ### About (extracted from RubyConf website)
 
@@ -11,29 +12,41 @@ Goes directly into talk.
 
 ### Notes
 
-Asks: "Why do we want to be a leader?"
+Asks: "Why do we want to be leaders?"
+
+Reasons why one would want to be a leader:
 
 - Money
 - Influence
 
-Talks about leadership: "It's about people, not code".
+Explains his opinions about leadership:
 
-Gives some background from talking to his manager.
+> "It's a personal journey."
 
-"It's about the how, not just the what."
+There's no certain amount of experience or work that equates to leadership. It's something very personal.
 
-"Leadership is the continuous practice of positive influence".
+> "It's about people, not code."
 
-Some background about his first job: at Microsoft, then going back to college for Masters degree.
+Gives some reflection on this from talking to his manager. How does your work affect others?
+
+> "It's about the how, not just the what."
+
+Explains how effective leadership is not just about writing code, but is also about the "soft skills".
+
+So how can we define leadership?
+
+> "Leadership is the continuous practice of positive influence".
+
+Gives some background about his first job, at Microsoft, then going back to college for Masters degree.
 
 Then a story from his participation in a startup weekend event.
 
-Observations:
+Observations he had over the years:
 
-- Leadership != title
-- (something)
-- Someone will see my good work (not really)
-- Busy work
+- Leadership != title: simply put, title does not mean "ability to lead".
+- Incentives and values: both affect the type of leadership emerging in an organization.
+- Someone will see my good work: more often than note does not happen – the best leaders are also the best advocates for themselves.
+- Busy work: good leaders always knew what is the most impactful work to be doing at any moment. They cut through "busy work".
 
 Things you could do:
 
@@ -42,19 +55,25 @@ Things you could do:
 - Feedback.
 - Dive deep, but not always.
 
-[image]
+Gives an example for each.
 
-Lost interest for a while.
+I lost interest for a while.
 
 Mentions non-technical aspects of leadership, talks about them, gives an example of how to structure metrics.
 
+![Objectives and Key Results](../media/no-title-required-how-leadership-can-come-from-anywhere.jpeg)
+
 It's a cycle: self-assess -> measure -> dive deep -> feedback.
 
-Moves into mentorship. "Don't ignore physical and mental health".
+Moves into mentorship.
 
-Talks about the biggest problem doing such stuff: Time.
+> "Don't ignore physical and mental health".
 
-Managers should empower us, not just delegate to us. We should held our organizations accountable.
+Talks about the biggest problem doing all of that: Time.
+
+Managers should empower us, not just delegate to us. We should hold our organizations accountable.
+
+Talks ends.
 
 ### Q&A
 
