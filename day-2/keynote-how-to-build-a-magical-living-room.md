@@ -1,4 +1,5 @@
-Keynote: How to build a magical living room
+## Keynote: How to build a magical living room
+
 Saron Yitbarek ([@saronyitbarek](https://twitter.com/saronyitbarek))
 
 #### About (extracted from RubyConf website)
@@ -77,6 +78,8 @@ Community building:
 - Learning
 - Iterating
 
-### Q&A:
+### Slides & Video
+
+### Q&A
 
 [no questions]

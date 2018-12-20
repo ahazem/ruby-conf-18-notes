@@ -2,8 +2,8 @@
 
 Team Mob
 
-Moderating: not quite sure, she introduces herself at the beginning.
-Rest of participants: not sure.
+Moderating: [Betsy Haibel](https://twitter.com/betsythemuffin).<br />
+Rest of participants: not sure.<br />
 Typing person: [Sam Phippen](https://twitter.com/samphippen), one of RSpec maintainers.
 
 ### Intro
@@ -57,6 +57,10 @@ Got all tests working, cleaning up the code.
 
 Session finished.
 
-### Q&A:
+### Video
+
+Video is [here](https://confreaks.tv/videos/rubyconf2018-live-mob-refactoring).
+
+### Q&A
 
 [no time for questions]

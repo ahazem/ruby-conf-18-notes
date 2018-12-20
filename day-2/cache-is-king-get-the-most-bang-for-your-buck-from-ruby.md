@@ -35,7 +35,9 @@ Recommendations:
 - Database Guards
 - Remove data store hits
 
-### Q&A:
+###
+
+### Q&A
 
 1. **Q**: Did your team has any issues with caching invalidation?
 
@@ -47,6 +49,6 @@ Recommendations:
 
 3. **Q**: Is there a way you can automatically detect where you ...
 
-   **A**: [...]
+   **A**: [... couldn't hear the answer]
 
 4. Couldn't catch the question or the answer.

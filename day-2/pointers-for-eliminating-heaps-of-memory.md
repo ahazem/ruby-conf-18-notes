@@ -1,4 +1,5 @@
-Pointers for Eliminating Heaps of Memory
+## Pointers for Eliminating Heaps of Memory
+
 Aaron Patterson
 
 ### Intro
@@ -44,8 +45,10 @@ At this point, I decided to focus more on listening to the talk.
 
 Great talk, very informative, detailed, yet concise.
 
-Slides can be found [here](https://speakerdeck.com/tenderlove/reducing-memory-usage-in-ruby).
+### Slides & Video
 
-### Q&A:
+Slides can be found [here](https://speakerdeck.com/tenderlove/reducing-memory-usage-in-ruby). Video is [here](https://confreaks.tv/videos/rubyconf2018-pointers-for-eliminating-heaps-of-memory).
+
+### Q&A
 
 [no questions time]

@@ -5,3 +5,7 @@ Takashi Kokubun ([@k0kubun](https://twitter.com/k0kubun))<br />Track: [General](
 ### Notes
 
 Decided to skip this in favour of **[The Case of the Missing Method: A Ruby Mystery Story](day-2/the-case-of-the-missing-method-a-ruby-mystery-story.md).
+
+### Video
+
+Video is available [here](https://confreaks.tv/videos/rubyconf2018-the-secret-power-of-ruby-2-6-jit).
