@@ -56,6 +56,6 @@ Talks about the biggest problem doing such stuff: Time.
 
 Managers should empower us, not just delegate to us. We should held our organizations accountable.
 
-### Q&A:
+### Q&A
 
 [taking questions in private]

@@ -65,7 +65,7 @@ Video can be found [here](http://confreaks.tv/videos/rubyconf2018-building-a-mem
 
 More info about the project: https://hyfen.net/memex/.
 
-### Q&A:
+### Q&A
 
 1. **Q**: How does the system know what you ate?
 

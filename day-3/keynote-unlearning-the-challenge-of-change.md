@@ -81,7 +81,7 @@ Talks about her book (ctrl shift).
 
 
 
-### Q&A:
+### Q&A
 
 1. **Q**:
 
