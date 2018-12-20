@@ -6,6 +6,7 @@
 
 :100: = Really wish I had attended (but did not attend either)
 
+
 ### Day 1
 
 | Biltmore Bowl / Regency Room / Sponsor Galleria              | Emerald Room<br />*[Eithcal Decisions](https://rubyconf.org/program#track-ethical-decisions)* / *[General](https://rubyconf.org/program#track-general)* | Gold Room<br />*[Scaling Teams](https://rubyconf.org/program#track-scaling-teams)* | Crystal Ballroom<br />*[General](https://rubyconf.org/program#track-general)* / [Taming Services](https://rubyconf.org/program#track-taming-services) | Tiffany Room<br />*[General](https://rubyconf.org/program#track-general)* |
@@ -20,8 +21,6 @@
 | Afternoon Break                                              |                                                              |                                                              |                                                              |                                                              |
 |                                                              | Colin Fleming ([@ridethecatbus](https://twitter.com/ridethecatbus))<br /><br />**Ethical Data Collection for Regular Developers** 👍<br /><br />[Video](https://confreaks.tv/videos/rubyconf2018-ethical-data-collection-for-regular-developers) | Katherine Wu ([@kwugirl](https://twitter.com/kwugirl))<br /><br />**Secrets of a Stealth Mentee** 👍<br /><br />[Video](https://confreaks.tv/videos/rubyconf2018-secrets-of-a-stealth-mentee) | James Thompson ([@plainprogrammer](https://twitter.com/plainprogrammer))<br /><br />👉 [**Building for Gracious Failure**](day-1/building-for-gracious-failure.md) 👈 (went in a little late, liked the talk)<br /><br />[Slides](https://1drv.ms/p/s!Apa1s8E77qSOj1WQLZeHvbtKpAi3) \| [Video](https://confreaks.tv/videos/rubyconf2018-building-for-gracious-failure) | Alex Peattie ([@alexpeattie](https://twitter.com/alexpeattie))<br /><br />**Ruby-us Hagrid: Writing Harry Potter with Ruby** :100: (heard many good things about this)<br /><br />[Video](https://confreaks.tv/videos/rubyconf2018-ruby-us-hagrid-writing-harry-potter-with-ruby) |
 | Bianca Escalante ([@biancacreating](https://twitter.com/biancacreating))<br /><br />👉 **[Keynote: Who and What We're Leaving Behind](day-1/keynote-who-and-what-we-are-leaving-behind.md)** 👈<br /><br />[Video](https://confreaks.tv/videos/rubyconf2018-keynote-who-and-what-we-re-leaving-behind) |                                                              |                                                              |                                                              |                                                              |
-
-
 
 
 
@@ -41,9 +40,9 @@
 |                                                              | Nadia Odunayo ([@nodunayo](https://twitter.com/nodunayo))<br /><br />👉 [**The Case of the Missing Method — A Ruby Mystery Story**](day-2/the-case-of-the-missing-method-a-ruby-mystery-story.md) 👈<br /><br />[Video](http://confreaks.tv/videos/rubyconf2018-the-case-of-the-missing-method-a-ruby-mystery-story) | Anna Gluszak<br /><br />**Practical guide to benchmarking your optimizations** :100:<br /><br />[Video](http://confreaks.tv/videos/rubyconf2018-practical-guide-to-benchmarking-your-optimizations) | Takashi Kokubun ([@k0kubun](https://twitter.com/k0kubun))<br /><br />**The secret power of Ruby 2.6: JIT** (initially wanted to attend this, changed my mind at last minute in favor of missing method talk) :100:<br /><br />[Slides](https://speakerdeck.com/k0kubun/rubyconf-2018) \| [Video](http://confreaks.tv/videos/rubyconf2018-the-secret-power-of-ruby-2-6-jit) | Alex Stephen ([@rambleraptor](https://twitter.com/rambleraptor))<br /><br />**Make Ruby Write Your Code for You** :100:<br /><br />[Video](http://confreaks.tv/videos/rubyconf2018-make-ruby-write-your-code-for-you) |
 | Multiple speakers<br /><br />[**Lightning Talks**](day-2/lightning-talks.md) (didn't attend any, but the one by [@searls](https://twitter.com/searls) was particularly interesting)<br /><br />[Video](https://confreaks.tv/videos/rubyconf2018-lightning-talks) |                                                              |                                                              |                                                              |                                                              |
 
+
+
 ### Day 3
-
-
 
 | Biltmore Bowl / Regency Room / Sponsor Galleria              | Emerald Room<br />*[General](https://rubyconf.org/program#track-general)* / *[RubyKaigi](https://rubyconf.org/program#track-rubykaigi)* | Gold Room<br />*[General](https://rubyconf.org/program#track-general)* | Crystal Ballroom<br />*[Lead Rubyist](https://rubyconf.org/program#track-lead-rubyist)* | Tiffany Room<br />*[General](https://rubyconf.org/program#track-general)* |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
