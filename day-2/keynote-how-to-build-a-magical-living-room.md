@@ -8,15 +8,17 @@ Saron is a developer and founder of CodeNewbie, the most supportive community of
 
 ### Intro
 
-Talk is about building: 1) engaged 2) authentic communities.
+![Saron on stage just before her talk starts](../media/how-to-build-a-magical-living-room-1.jpeg)
 
-Her childhood. Born Eithiopian, in Addis Ababa.
+Talk is about: building engaged and authentic communities.
+
+Her childhood. Born Ethiopian, in Addis Ababa.
 
 ### Notes
 
 Talking about her father, his ideas about education and interactions with him.
 
-About the immigrant eithiopian community and how her mother were helping gather them in their living room.
+Moves to the immigrant ethiopian community and how her mother were helping gather them in her family's living room.
 
 Talks about how their living room was magical. What her mother did. Thanksgiving.
 
@@ -24,24 +26,24 @@ Her mother were taking notes, and observing and making sure they everyone felt w
 
 When she grow up, she started learning to code, went to a bootcamp.
 
-Bootcamps are expensive, they are inaccessible (investment). That's why she started CodeNewbie.
+Bootcamps are expensive, they are inaccessible (an investment). That's why she started CodeNewbie.
 
-Talking about CodeNewbie twitter chat, and its rules.
+Talking about CodeNewbie Twitter chat, and its rules.
 
-- be helpful
-- be supportive
+- Be helpful
+- Be supportive
 
 Being aggresively nice with people, giving examples.
 
-More story-telling about the twitter chats and how timezones are preventing people in other parts of the world participate.
+More story-telling about the Twitter chats (funny stuff though) and how timezones are preventing people in other parts of the world from participating:
 
-Developers and twitter chat organizers have one common enemy: Timezones!
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Developers and twitter chat organizers have one common enemy: Timezones!&quot; – <a href="https://twitter.com/saronyitbarek?ref_src=twsrc%5Etfw">@saronyitbarek</a> <a href="https://twitter.com/hashtag/rubyconf?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconf</a></p>&mdash; Ahmed (@ahazem) <a href="https://twitter.com/ahazem/status/1062765058600517632?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 This brought the idea of creating a podcast.
 
-Giving some examples of pretty much famous developers who got into coding not very early in their lives, like Yehuda Katz (at 25).
+Giving some examples of very famous developers who got into coding not very early in their lives, like Yehuda Katz (at 25).
 
-"Who are developers? There are two main narratives – you went to a top school for CS, you work for a big tech company, you're set for life. Or you were born with a computer in your room. And there are people who aren't those people! Let's talk to them!"
+> "Who are developers? There are two main narratives – you went to a top school for CS, you work for a big tech company, you're set for life. Or you were born with a computer in your room. And there are people who aren't those people! Let's talk to them!"
 
 Talking further about how she runs the podcast.
 
@@ -51,9 +53,9 @@ How they introduced transcripts because someone asked for them, if he hadn't, th
 
 Talks about her making a conference for Newbies: "CodeLand".
 
-Conferences should be financially accessible. They are not, giving examples. Flights / hotel / ticket.
+Conferences should be financially accessible. They are not, giving examples. Flights / Hotel / Ticket.
 
-They offered in CodeLand opportunity scholarship to get around this.
+They offered in CodeLand an opportunity scholarship to get around this.
 
 Her learnings from organizing CodeLand 2018:
 
@@ -69,7 +71,7 @@ Talks about further feedback she got from attendees:
 - Low-carb lunch
 - Bigger seats
 
-[image]
+![Feedback from attendees of CodeLand](../media/how-to-build-a-magical-living-room-2.jpeg)
 
 Community building:
 
@@ -78,8 +80,10 @@ Community building:
 - Learning
 - Iterating
 
-### Slides & Video
+### Video
+
+Video is available [here](http://confreaks.tv/videos/rubyconf2018-keynote-how-to-build-a-magical-living-room).
 
 ### Q&A
 
-[no questions]
+[no time for questions]
