@@ -8,39 +8,66 @@ Went in a few minutes late.
 
 Gives a life example of caching:
 
-Asks one of the audience about his name, he replies. Now she knows his name (it is cached). Goes on with
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Live analog demo of caching by <a href="https://twitter.com/molly_struve?ref_src=twsrc%5Etfw">@molly_struve</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><img src="pic.twitter.com/koTDYPXlpk" alt="Live demo of caching" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062856429294342144?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
-Talks about her company.
+Gets one of the audience on stage. Asks him about his name, he replies. Asks again. And again. And again.
+
+Asks:
+
+> "How annoyed would you be if I asked you your name one million times?"
+
+The guy replies:
+
+> "I would shut down!"
+
+Ask the guy to write it down instead. Now if she wants to know his name, she no longer need to ask.
+
+That's what caching is like.
 
 ### Notes
 
-Talks about their setup: Mysql -> ActiveModelSerializers -> ElasticSearch.
+Talks about the company she works for.
+
+Describes their setup.
 
 Gives an example about how they had a lot of fast queries but they were making so many of them.
 
-Bulk Serialization.
+Talks about Bulk Serialization.
 
-Lots of talking about how they are optimising and caching, especially using bulk serialization.
+Describes how they are optimising and caching, especially using bulk serialization.
 
-Shows a graph where the curve goes down sharply after deploying those optimisations.
+Shows a graph indicating how better their queries are after deploying that optimisation.
 
 Explains how fixing one part of the problem moved the load to another part: Redis.
 
 Talks about sharding their database.
 
-Moves on to other optimisation techniques to ensure not doing unnecessary database hits.
+Moves on to other optimisation techniques to ensure they are not doing unnecessary database hits.
+
+I'm enjoying this.
 
 Goes on to the last point. Bumping up the number of Resque workers from 45 to 70. Redis was overwhelmed as a result.
 
+Explains how they fixed it.
+
 Recommendations:
 
+![Recommendations](../media/cache-is-king-get-the-most-bang-for-your-buck.jpeg)
+_Sorry about the angle!_ ()
+
 - Process in bulk
-- Hash Cache is always going to be faster than Redis.
+- Hash cache is always going to be faster than Redis.
 - Framework cache (know your gems: octopus sharding)
 - Database Guards
 - Remove data store hits
 
-###
+Talk ends.
+
+Awesome talk. Told her in person how much I loved it.
+
+### Slides & Video
+
+Slides is available [here](https://www.slideshare.net/MollyStruve/cache-is-king-get-the-most-bang-for-your-buck-from-ruby-122728558). Video can be found [here](http://confreaks.tv/videos/rubyconf2018-cache-is-king-get-the-most-bang-for-your-buck-from-ruby).
 
 ### Q&A
 
