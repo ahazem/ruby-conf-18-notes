@@ -8,7 +8,7 @@ Went in a few minutes late.
 
 Gives a life example of caching:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Live analog demo of caching by <a href="https://twitter.com/molly_struve?ref_src=twsrc%5Etfw">@molly_struve</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><img src="pic.twitter.com/koTDYPXlpk" alt="Live demo of caching" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062856429294342144?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Live analog demo of caching by <a href="https://twitter.com/molly_struve?ref_src=twsrc%5Etfw">@molly_struve</a> <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> <br /><img src="https://pic.twitter.com/koTDYPXlpk" alt="Live demo of caching" /></p>&mdash; Valerie Woolard Srinivasan (@valeriecodes) <a href="https://twitter.com/valeriecodes/status/1062856429294342144?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote>
 
 Gets one of the audience on stage. Asks him about his name, he replies. Asks again. And again. And again.
 
