@@ -22,49 +22,61 @@ Doing an excerise together. Explains the game. Audience does the game with her.
 
 Moves to talk about herself and her company. Started 11 years ago.
 
-Talks about unlearning and how that makes room for us learning new things.
+Talks about unlearning and how that makes a room for us to learn new things.
 
 Story-telling about her trip to Australia.
 
-"Shift is a way of life!"
+> "Shift is a way of life!"
 
 Levels of unlearning:
 
 - Individual
-- Team/Group
+- Group
 - Organization
 
-Gives examples of unlearning, and relation of that to habits.
+Gives some examples of unlearning, whether they are habits or not.
 
-Moves on to a saying: "It's like riding a bike", shows a video about how uneasy it is to ride a bike in reality.
+Talks about the saying:
+
+> "It's like riding a bike"
+
+And shows a video about how difficult riding a bike can be in reality (given that the handlebars were inverted).
 
 Talks about adult vs child ability to unlearn.
 
-Relates that to newbies. Gives more examples from people she worked with at her company.
+Relates that to newbies:
 
-Asks people to do "Space Numbers" game in pairs.
+> "Newbies have something very valuable to contribute".
+
+Gives more examples from people she worked with at her company.
+
+Asks people to do another game (this time in pairs): "Space Numbers".
+
+Audience does. Good vibes.
 
 Describes how learning is done in the brain: "basal ganglia".
 
-Let's get personal. Gives an example of a job she took where she had to teach visually impaired people.
+Let's get personal.
 
-Asks audience to ask themselves a few questions.
+Talks about a job she took where she had to teach visually impaired people. How she initially precieved this to be a very hard task and how she was suprised it was not.
 
 Talks about the bathroom signs.
 
-Shows more signs.
+Shows more signs. Asks people to unlearn them (say new meanings).
 
-Goes into unlearning organizations.
+Goes into unlearning for organizations.
 
-Gives a few recommendations for doing a SHIFT.
+Gives a few recommendations for doing a SHIFT (or how to help your team make changes?):
 
-- Surface the resistence.
-- H
-- I
-- F
-- T
+![SHIFT](../media/unlearning-the-challenge-of-change.jpeg)
 
-Asks the audience to write something on the white paper, and make an airplane out of it.
+- [S]urface the resistence.
+- [H]ear what they have to say.
+- [I]dentify the value for them to change.
+- [F]ind ways to break down barriers.
+- [T]rain them with experimental methods day by day.
+
+Asks the audience to write something on a white paper, and make an airplane out of it.
 
 Everybody throw their planes.
 
@@ -79,23 +91,17 @@ Figure out:
 - How to change the habits.
 - How to change the mindsets.
 - Bring an outsider's prespective (giving an example about food waste with her daughter).
-- Curiosity / Expermentation / Play (talks about Escape Thinking)
-- Conduct unlearning reviews
+- Curiosity / Expermentation / Play (talks about Escape Thinking).
+- Conduct unlearning reviews.
 
-Talks about her book (ctrl shift).
+Talks about her book (CTRL Shift).
 
+Talk ends.
 
+### Video
+
+Video is available [here](https://confreaks.tv/videos/rubyconf2018-keynote-unlearning-the-challenge-of-change).
 
 ### Q&A
 
-1. **Q**:
-
-   **A**:
-
-2. **Q**:
-
-   **A**:
-
-3. **Q**:
-
-   **A**:
+[no time for questions]
