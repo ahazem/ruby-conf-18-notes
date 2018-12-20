@@ -73,12 +73,14 @@ Talks about further feedback she got from attendees:
 
 ![Feedback from attendees of CodeLand](../media/how-to-build-a-magical-living-room-2.jpeg)
 
-Community building:
+Tips on community building:
 
-- Understanding
-- Listening
-- Learning
-- Iterating
+- Understanding: the needs of the community.
+- Listening: to what they have to say.
+- Learning: learn from what they have to offer.
+- Iterating: keep iterating.
+
+Talk ends.
 
 ### Video
 
